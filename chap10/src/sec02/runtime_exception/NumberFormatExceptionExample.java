@@ -1,4 +1,4 @@
-package chap10.sec02_runtime_exception;
+package sec02.runtime_exception;
 
 public class NumberFormatExceptionExample {
 
